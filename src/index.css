@@ -1,0 +1,15 @@
+html, css
+{
+  height: 100%;
+}
+
+body
+{
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(180deg,
+   rgba(61, 1, 226, 1) 0%,
+   rgba(10, 0, 54, 0.829) 100%);
+  color: #fff;
+}
